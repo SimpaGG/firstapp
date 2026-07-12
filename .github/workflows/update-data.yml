@@ -1,0 +1,28 @@
+name: Update stock data
+
+on:
+  schedule:
+    # Weekdays at 05:30 UTC, a few hours after US market close
+    - cron: "30 5 * * 2-6"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+
+      - name: Run data export
+        run: uv run python export_data.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No changes" || (git commit -m "Automated data update" && git push)
