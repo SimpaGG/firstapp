@@ -2171,19 +2171,6 @@
     "beta":0.86
   },
   {
-    "ticker":"EA",
-    "name":"Electronic Arts",
-    "sector":"Communication Services",
-    "price":206.35,
-    "market_cap_b":51.7,
-    "pe":58.8,
-    "dividend_yield":0.37,
-    "profit_margin":11.8,
-    "revenue_growth":11.9,
-    "roe":13.5,
-    "beta":0.64
-  },
-  {
     "ticker":"ELV",
     "name":"Elevance Health",
     "sector":"Health Care",
@@ -2544,6 +2531,19 @@
     "dividend_yield":null,
     "profit_margin":10.4,
     "revenue_growth":-4.7,
+    "roe":null,
+    "beta":null
+  },
+  {
+    "ticker":"FERG",
+    "name":"Ferguson Enterprises",
+    "sector":"Industrials",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
     "roe":null,
     "beta":null
   },
