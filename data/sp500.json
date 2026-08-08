@@ -522,7 +522,7 @@
   {
     "ticker":"APP",
     "name":"AppLovin",
-    "sector":"Information Technology",
+    "sector":"Communication Services",
     "price":442.85,
     "market_cap_b":148.8,
     "pe":44.1,
@@ -2082,7 +2082,7 @@
   {
     "ticker":"DD",
     "name":"DuPont",
-    "sector":"Materials",
+    "sector":"Industrials",
     "price":132.66,
     "market_cap_b":17.9,
     "pe":116.4,
