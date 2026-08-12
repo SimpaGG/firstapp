@@ -4252,7 +4252,7 @@
   },
   {
     "ticker":"MSCI",
-    "name":"MSCI Inc.",
+    "name":"MSCI",
     "sector":"Financials",
     "price":620.23,
     "market_cap_b":45.1,
@@ -4512,7 +4512,7 @@
   },
   {
     "ticker":"ORLY",
-    "name":"O\u2019Reilly Automotive",
+    "name":"O'Reilly Automotive",
     "sector":"Consumer Discretionary",
     "price":null,
     "market_cap_b":null,
@@ -5123,7 +5123,7 @@
   },
   {
     "ticker":"RMD",
-    "name":"ResMed",
+    "name":"ResMed|",
     "sector":"Health Care",
     "price":204.5,
     "market_cap_b":28.8,
