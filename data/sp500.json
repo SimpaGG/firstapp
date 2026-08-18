@@ -689,19 +689,6 @@
     "beta":0.34
   },
   {
-    "ticker":"AVB",
-    "name":"AvalonBay Communities",
-    "sector":"Real Estate",
-    "price":194.53,
-    "market_cap_b":27.6,
-    "pe":24.1,
-    "dividend_yield":3.66,
-    "profit_margin":37.3,
-    "revenue_growth":2.5,
-    "roe":9.7,
-    "beta":0.78
-  },
-  {
     "ticker":"AVY",
     "name":"Avery Dennison",
     "sector":"Materials",
