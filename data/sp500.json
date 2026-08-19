@@ -2262,19 +2262,6 @@
     "beta":0.97
   },
   {
-    "ticker":"EQR",
-    "name":"Equity Residential",
-    "sector":"Real Estate",
-    "price":69.72,
-    "market_cap_b":26.9,
-    "pe":27.9,
-    "dividend_yield":4.09,
-    "profit_margin":30.6,
-    "revenue_growth":2.5,
-    "roe":8.7,
-    "beta":0.75
-  },
-  {
     "ticker":"ERIE",
     "name":"Erie Indemnity",
     "sector":"Financials",
@@ -5031,6 +5018,19 @@
     "beta":0.94
   },
   {
+    "ticker":"RDDT",
+    "name":"Reddit",
+    "sector":"Communication Services",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
+  },
+  {
     "ticker":"RTX",
     "name":"RTX Corporation",
     "sector":"Industrials",
@@ -6186,6 +6186,19 @@
     "revenue_growth":43.4,
     "roe":42.9,
     "beta":1.41
+  },
+  {
+    "ticker":"VMRK",
+    "name":"Vivmark Residential",
+    "sector":"Real Estate",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
   },
   {
     "ticker":"VMC",
