@@ -871,6 +871,19 @@
     "beta":2.54
   },
   {
+    "ticker":"BE",
+    "name":"Bloom Energy",
+    "sector":"Industrials",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
+  },
+  {
     "ticker":"BNY",
     "name":"BNY Mellon",
     "sector":"Financials",
@@ -986,19 +999,6 @@
     "revenue_growth":2.0,
     "roe":17.8,
     "beta":0.34
-  },
-  {
-    "ticker":"BLDR",
-    "name":"Builders FirstSource",
-    "sector":"Industrials",
-    "price":73.51,
-    "market_cap_b":7.9,
-    "pe":28.1,
-    "dividend_yield":null,
-    "profit_margin":2.0,
-    "revenue_growth":-10.1,
-    "roe":7.0,
-    "beta":1.42
   },
   {
     "ticker":"BG",
@@ -2327,6 +2327,19 @@
     "beta":0.52
   },
   {
+    "ticker":"P",
+    "name":"Everpure",
+    "sector":"Information Technology",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
+  },
+  {
     "ticker":"ES",
     "name":"Eversource Energy",
     "sector":"Utilities",
@@ -3209,6 +3222,19 @@
     "revenue_growth":4.6,
     "roe":96.8,
     "beta":1.01
+  },
+  {
+    "ticker":"ILMN",
+    "name":"Illumina, Inc.",
+    "sector":"Health Care",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
   },
   {
     "ticker":"INCY",
@@ -4119,19 +4145,6 @@
     "revenue_growth":260.2,
     "roe":-36.6,
     "beta":0.94
-  },
-  {
-    "ticker":"TAP",
-    "name":"Molson Coors Beverage Company",
-    "sector":"Consumer Staples",
-    "price":39.88,
-    "market_cap_b":7.5,
-    "pe":null,
-    "dividend_yield":4.81,
-    "profit_margin":-18.9,
-    "revenue_growth":2.0,
-    "roe":-18.1,
-    "beta":0.42
   },
   {
     "ticker":"MDLZ",
@@ -5770,19 +5783,6 @@
     "revenue_growth":25.9,
     "roe":6.7,
     "beta":0.62
-  },
-  {
-    "ticker":"TTD",
-    "name":"Trade Desk (The)",
-    "sector":"Communication Services",
-    "price":19.79,
-    "market_cap_b":9.3,
-    "pe":22.2,
-    "dividend_yield":null,
-    "profit_margin":14.6,
-    "revenue_growth":11.8,
-    "roe":16.7,
-    "beta":1.04
   },
   {
     "ticker":"TSCO",
