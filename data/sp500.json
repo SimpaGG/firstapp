@@ -1664,19 +1664,6 @@
     "beta":0.88
   },
   {
-    "ticker":"CTVA",
-    "name":"Corteva",
-    "sector":"Materials",
-    "price":86.07,
-    "market_cap_b":57.6,
-    "pe":46.5,
-    "dividend_yield":0.84,
-    "profit_margin":6.5,
-    "revenue_growth":11.0,
-    "roe":5.1,
-    "beta":0.56
-  },
-  {
     "ticker":"CSGP",
     "name":"CoStar Group",
     "sector":"Real Estate",
@@ -4654,17 +4641,17 @@
     "beta":0.91
   },
   {
-    "ticker":"PSKY",
+    "ticker":"SKYD",
     "name":"Paramount Skydance Corporation",
     "sector":"Communication Services",
-    "price":9.55,
-    "market_cap_b":10.7,
-    "pe":318.3,
-    "dividend_yield":2.1,
-    "profit_margin":-2.1,
-    "revenue_growth":2.2,
-    "roe":-0.8,
-    "beta":1.45
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
   },
   {
     "ticker":"PH",
@@ -5863,6 +5850,19 @@
     "beta":0.88
   },
   {
+    "ticker":"TWLO",
+    "name":"Twilio",
+    "sector":"Information Technology",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
+  },
+  {
     "ticker":"TYL",
     "name":"Tyler Technologies",
     "sector":"Information Technology",
@@ -6214,6 +6214,19 @@
     "beta":1.05
   },
   {
+    "ticker":"VYLR",
+    "name":"Vylor",
+    "sector":"Consumer Staples",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
+  },
+  {
     "ticker":"WRB",
     "name":"W. R. Berkley Corporation",
     "sector":"Financials",
@@ -6277,19 +6290,6 @@
     "revenue_growth":6.5,
     "roe":11.0,
     "beta":1.4
-  },
-  {
-    "ticker":"WBD",
-    "name":"Warner Bros. Discovery",
-    "sector":"Communication Services",
-    "price":27.09,
-    "market_cap_b":67.9,
-    "pe":null,
-    "dividend_yield":null,
-    "profit_margin":-4.7,
-    "revenue_growth":-1.0,
-    "roe":-5.0,
-    "beta":1.55
   },
   {
     "ticker":"WM",
