@@ -4641,19 +4641,6 @@
     "beta":0.91
   },
   {
-    "ticker":"SKYD",
-    "name":"Paramount Skydance Corporation",
-    "sector":"Communication Services",
-    "price":null,
-    "market_cap_b":null,
-    "pe":null,
-    "dividend_yield":null,
-    "profit_margin":null,
-    "revenue_growth":null,
-    "roe":null,
-    "beta":null
-  },
-  {
     "ticker":"PH",
     "name":"Parker Hannifin",
     "sector":"Industrials",
@@ -5341,6 +5328,19 @@
     "revenue_growth":19.3,
     "roe":113.6,
     "beta":1.33
+  },
+  {
+    "ticker":"SKYD",
+    "name":"Skydance Corporation",
+    "sector":"Communication Services",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
   },
   {
     "ticker":"SWKS",
