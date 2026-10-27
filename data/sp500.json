@@ -4875,19 +4875,6 @@
     "beta":0.84
   },
   {
-    "ticker":"PEG",
-    "name":"Public Service Enterprise Group",
-    "sector":"Utilities",
-    "price":80.89,
-    "market_cap_b":40.3,
-    "pe":17.9,
-    "dividend_yield":3.31,
-    "profit_margin":17.7,
-    "revenue_growth":19.4,
-    "roe":13.4,
-    "beta":0.53
-  },
-  {
     "ticker":"PTC",
     "name":"PTC Inc.",
     "sector":"Information Technology",
@@ -4899,6 +4886,19 @@
     "revenue_growth":21.7,
     "roe":34.4,
     "beta":0.99
+  },
+  {
+    "ticker":"PEG",
+    "name":"Public Service Enterprise Group",
+    "sector":"Utilities",
+    "price":80.89,
+    "market_cap_b":40.3,
+    "pe":17.9,
+    "dividend_yield":3.31,
+    "profit_margin":17.7,
+    "revenue_growth":19.4,
+    "roe":13.4,
+    "beta":0.53
   },
   {
     "ticker":"PSA",
@@ -4927,17 +4927,17 @@
     "beta":1.19
   },
   {
-    "ticker":"PWR",
-    "name":"Quanta Services",
-    "sector":"Industrials",
-    "price":646.7,
-    "market_cap_b":97.0,
-    "pe":88.5,
-    "dividend_yield":0.07,
-    "profit_margin":3.7,
-    "revenue_growth":26.3,
-    "roe":13.5,
-    "beta":1.22
+    "ticker":"Q",
+    "name":"Qnity Electronics",
+    "sector":"Information Technology",
+    "price":140.98,
+    "market_cap_b":29.5,
+    "pe":45.5,
+    "dividend_yield":0.22,
+    "profit_margin":13.1,
+    "revenue_growth":17.6,
+    "roe":7.5,
+    "beta":null
   },
   {
     "ticker":"QCOM",
@@ -4953,6 +4953,19 @@
     "beta":1.64
   },
   {
+    "ticker":"PWR",
+    "name":"Quanta Services",
+    "sector":"Industrials",
+    "price":646.7,
+    "market_cap_b":97.0,
+    "pe":88.5,
+    "dividend_yield":0.07,
+    "profit_margin":3.7,
+    "revenue_growth":26.3,
+    "roe":13.5,
+    "beta":1.22
+  },
+  {
     "ticker":"DGX",
     "name":"Quest Diagnostics",
     "sector":"Health Care",
@@ -4964,19 +4977,6 @@
     "revenue_growth":9.2,
     "roe":14.5,
     "beta":0.57
-  },
-  {
-    "ticker":"Q",
-    "name":"Qnity Electronics",
-    "sector":"Information Technology",
-    "price":140.98,
-    "market_cap_b":29.5,
-    "pe":45.5,
-    "dividend_yield":0.22,
-    "profit_margin":13.1,
-    "revenue_growth":17.6,
-    "roe":7.5,
-    "beta":null
   },
   {
     "ticker":"RL",
@@ -5016,19 +5016,6 @@
     "revenue_growth":null,
     "roe":null,
     "beta":null
-  },
-  {
-    "ticker":"RTX",
-    "name":"RTX Corporation",
-    "sector":"Industrials",
-    "price":196.39,
-    "market_cap_b":264.5,
-    "pe":36.8,
-    "dividend_yield":1.49,
-    "profit_margin":8.0,
-    "revenue_growth":8.7,
-    "roe":11.6,
-    "beta":0.3
   },
   {
     "ticker":"O",
@@ -5200,6 +5187,19 @@
     "beta":1.76
   },
   {
+    "ticker":"RTX",
+    "name":"RTX Corporation",
+    "sector":"Industrials",
+    "price":196.39,
+    "market_cap_b":264.5,
+    "pe":36.8,
+    "dividend_yield":1.49,
+    "profit_margin":8.0,
+    "revenue_growth":8.7,
+    "roe":11.6,
+    "beta":0.3
+  },
+  {
     "ticker":"SPGI",
     "name":"S&P Global",
     "sector":"Financials",
@@ -5331,7 +5331,7 @@
   },
   {
     "ticker":"SKYD",
-    "name":"Skydance Corporation",
+    "name":"Skydance",
     "sector":"Communication Services",
     "price":null,
     "market_cap_b":null,
