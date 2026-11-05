@@ -3497,19 +3497,6 @@
     "beta":0.98
   },
   {
-    "ticker":"KVUE",
-    "name":"Kenvue",
-    "sector":"Consumer Staples",
-    "price":19.23,
-    "market_cap_b":36.9,
-    "pe":23.2,
-    "dividend_yield":4.26,
-    "profit_margin":10.6,
-    "revenue_growth":4.5,
-    "roe":15.7,
-    "beta":0.44
-  },
-  {
     "ticker":"KDP",
     "name":"Keurig Dr Pepper",
     "sector":"Consumer Staples",
@@ -4509,6 +4496,19 @@
     "revenue_growth":-8.3,
     "roe":4.1,
     "beta":0.15
+  },
+  {
+    "ticker":"OKTA",
+    "name":"Okta, Inc.",
+    "sector":"Information Technology",
+    "price":null,
+    "market_cap_b":null,
+    "pe":null,
+    "dividend_yield":null,
+    "profit_margin":null,
+    "revenue_growth":null,
+    "roe":null,
+    "beta":null
   },
   {
     "ticker":"ODFL",
